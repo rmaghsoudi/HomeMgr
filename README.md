@@ -10,4 +10,3 @@ Designed and Built by: Romy Maghsoudi![HomePage](https://user-images.githubuserc
 
 
 ### The app is currently deployed at https://homemgr-4a8ec.firebaseapp.com/
-# HomeMgr
